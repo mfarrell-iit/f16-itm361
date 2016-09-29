@@ -1,40 +1,54 @@
-html,body {
-    margin: 0;
-    padding: 0;
+.home {
     background-color: beige;
     color: blue;
     font-family: Arial;
     text-align: center;
 }
 
-h1 {
-    
+.resume {
+    background-color: beige;
+    color: blue;
+    font-family: Arial;
 }
 
-h2 {
-    
+.setup {
+    background-color: beige;
+    color: blue;
+    font-family: Arial;
+    text-align: center;
 }
 
-h3 {
-    
+.test {
+    background-color: beige;
+    color: blue;
+    font-family: Arial;
+    text-align: center;
 }
 
-h4 {
-    
-}
-
-h5 {
-    
+.text {
+    background-color: beige;
+    color: blue;
+    font-family: Arial;
+    text-align: center;
 }
 
 img {
-    max-width: 100%;
+    display: block;
+    margin: 0 auto;
+    max-width: 98%;
     max-height: 100%;
     padding: 1em 0em 1em 0em;
 }
 
+audio {
+    display: block;
+    margin: 0 auto;
+}
+
 video {
-    max-width: 100%;
+    display: block;
+    margin: 0 auto;
+    max-width: 98%;
     max-height: 100%;
     padding: 1em 0em 1em 0em;
 }
