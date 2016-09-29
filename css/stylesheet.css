@@ -1,38 +1,46 @@
+nav {
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+}
+
 .home {
     background-color: beige;
     color: blue;
-    font-family: Arial;
+    font-family: Calibri;
     text-align: center;
 }
 
 .resume {
     background-color: beige;
     color: blue;
-    font-family: Arial;
+    font-family: Calibri;
 }
 
 .setup {
     background-color: beige;
     color: blue;
-    font-family: Arial;
+    font-family: Calibri;
     text-align: center;
 }
 
 .test {
     background-color: beige;
     color: blue;
-    font-family: Arial;
+    font-family: Calibri;
     text-align: center;
 }
 
 .text {
     background-color: beige;
     color: blue;
-    font-family: Arial;
+    font-family: Calibri;
     text-align: center;
 }
 
-img {
+.picture {
     display: block;
     margin: 0 auto;
     max-width: 98%;
