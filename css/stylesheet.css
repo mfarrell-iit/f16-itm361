@@ -7,37 +7,50 @@ footer {
 }
 
 .home {
-    background-color: beige;
-    color: blue;
+    background-color: lightskyblue;
+    color: black;
     font-family: Calibri;
     text-align: center;
 }
 
 .resume {
-    background-color: beige;
-    color: blue;
+    background-color: lightskyblue;
+    color: black;
     font-family: Calibri;
 }
 
 .setup {
-    background-color: beige;
-    color: blue;
+    background-color: lightskyblue;
+    color: black;
     font-family: Calibri;
     text-align: center;
 }
 
 .test {
-    background-color: beige;
-    color: blue;
+    background-color: lightskyblue;
+    color: black;
     font-family: Calibri;
     text-align: center;
 }
 
+.specs {
+    column-count: 2;
+}
+
+.components {
+    text-align: left;
+}
+
 .text {
-    background-color: beige;
-    color: blue;
+    background-color: lightskyblue;
+    color: black;
     font-family: Calibri;
     text-align: center;
+}
+
+.loremipsum {
+    text-align: left;
+    font-family: fantasy;
 }
 
 .picture {
