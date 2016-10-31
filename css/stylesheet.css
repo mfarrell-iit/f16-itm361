@@ -50,7 +50,9 @@ footer {
 
 .loremipsum {
     text-align: left;
+  color: white;
     font-family: fantasy;
+    padding: 0 10em 0 10em;
 }
 
 .picture {
