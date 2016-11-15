@@ -1,35 +1,38 @@
+/*css lol*/
+
+html {
+    /font-family: sans-serif, serif, monospace;
+}
+
 nav {
     text-align: center;
 }
 
 footer {
     text-align: center;
+    padding: 0 10em 0 10em;
 }
 
 .home {
     background-color: lightskyblue;
     color: black;
-    font-family: Calibri;
     text-align: center;
 }
 
 .resume {
     background-color: lightskyblue;
     color: black;
-    font-family: Calibri;
 }
 
 .setup {
     background-color: lightskyblue;
     color: black;
-    font-family: Calibri;
     text-align: center;
 }
 
 .test {
     background-color: lightskyblue;
     color: black;
-    font-family: Calibri;
     text-align: center;
 }
 
@@ -44,13 +47,12 @@ footer {
 .text {
     background-color: lightskyblue;
     color: black;
-    font-family: Calibri;
     text-align: center;
 }
 
 .loremipsum {
     text-align: left;
-  color: white;
+    color: white;
     font-family: fantasy;
     padding: 0 10em 0 10em;
 }
@@ -60,10 +62,11 @@ footer {
     margin: 0 auto;
     max-width: 98%;
     max-height: 100%;
+      min-width: 10em;
     padding: 1em 0em 1em 0em;
 }
 
-audio {2
+audio {
     display: block;
     margin: 0 auto;
 }
@@ -73,5 +76,7 @@ video {
     margin: 0 auto;
     max-width: 80%;
     max-height: 80%;
+    min-width: 10em;
     padding: 2em 0em 2em 0em;
 }
+
